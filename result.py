@@ -14,7 +14,7 @@ print("Name:", name)
 print("Total Marks:", total)
 print("Average:", average)
 
-if average >= 90:
+if average >= 100:
     print("Grade: A")
 elif average >= 75:
     print("Grade: B")
